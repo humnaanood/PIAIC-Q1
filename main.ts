@@ -1,134 +1,67 @@
-//let powder :string  = "lal mirch powder";
-//powder = "haldi powder ";
-//console.log(powder)
+let username
+username = "Nihal Khan"
+username = 876
+console.log(username)
+
+let studentdgender = "male";
+if (studentdgender ==="male") {
+    console.log("apki entry left side se hain")}
+ let studentgender = "female"
+ if (studentgender ="male"){
+   console.log("apki entry right se hain")
+ }
+let studentgrade = 90;
+if (studentgrade === 90){
+    console.log("grade A")}
+
+let salary =40000;
+let monthlyexpence = 80000;
+if (salary === 40000){
+   console.log("you have not enough money")
+} else {
+   console.log("you have enough money")
+
+console.log("taking decision");
+console.log("taking decision");
+}
+if (false){
+  console.log("decision true")}
+  if(2>3){
+    console.log("2 grater than 3")}
+  console.log
+ let budget = 40000;
+// let cycle = 50000;
+//  let cycle = 40000;
+ let color = "blue"
+//  if (((cycle <= budget && color =="black" || color=="blue" || color=="red" )&&  cycle <= budget)){
+// console.log("buy cycle")}
+// else{
+  // console.log("i need to build my skills to earn more")}
+
+  // SINGLE =(ASSIGN)
+  let num:any="2"
+  console.log(num) //2
+  // DOUBLE == (MATCH)  
+console.log(num == 2) //TRUE
+
+  // TRIPLE === (MATCH)  - data type  
+console.log(num === 2) //FALSE
+// single =
+// double == NODE!=
+// triple === NODE!==
+// IF YOU PUT "ANY" YOU HAVE TO PUT DATA TYPE
+
+// SINGLE (ASSIGN)
+// let num :any = 4
+// let username:any  = "hamza"
+// console.log(num) //3
+// console.log(num == 2 || username=="humna")
+
+// single = assign
+// let car:string = "BMW"
+// let carcolor = "black"
 
-//let  fullname = "HUMNAA";
-//console.log(fullname)
-//let firstname = "HUMNA ";
-//let lastname = "ANOOd";
-// console.log(firstname + " " +)
-//console.log (`my name is ${firstname} ${lastname}`)
-//console.log(`my name is 
-//${firstname}
-//${lastname}`)
-//let message = `my name is ${firstname} ${lastname}`
-//console.log (message);
-//console.log(firstname,lastname)
 
-//SOME WORDS ARE RESERVED FOR:Name,Cons...........
 
-//const number = 7;
-//console.log(number)
-//let qty = 2;
-//console.log(qty + 10)
-//console.log (qty -1)
 
-//let str1 = "1"
-//let str1 = "2"
-//console.log str"1" str"2"
 
-//let qty = 8
-//console.log(qty= 18);
-//console.log(qty- 2);
-//console.log(qty * 12000);
-//console.log(qty * 12000);
-
-//console.log(qty /3)
-//let str1 = "1"
-//let str2 = "2"
-//console.log(str1 + str2)
-
-//let n1 = 2;
-//let n2 = 3;
-//console.log(n1 ** n2)
-
-//console.log(qty % 3)
-
-//let age = 22;
-
-//console.log(age === 22);// True
-//console.log(age !=22)// False
-//console.log (age > 18)//True
-//console.log( age < 22)// False
-
-//let n =5;
- 
-//console.log(n == 5) //true
-//console.log(n === 5) //true
-//console.log(n != 5) // false
-//console.log(n >8) // false
-//console.log(n ) // 5
-//console.log(n >8) // false
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                                                                                            
